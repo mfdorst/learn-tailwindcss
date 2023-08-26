@@ -579,6 +579,10 @@ video {
   padding-bottom: 0.5rem;
 }
 
+.font-body {
+  font-family: Nunito, sans-serif;
+}
+
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
